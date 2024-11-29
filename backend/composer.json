@@ -1,0 +1,16 @@
+{
+    "name": "julien-heng/app_qcm",
+    "description": "It's the backend for my quiz app",
+    "autoload": {
+        "psr-4": {
+            "JulienHeng\\AppQcm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julien Heng",
+            "email": "julienheng0@gmail.com"
+        }
+    ],
+    "require": {}
+}
